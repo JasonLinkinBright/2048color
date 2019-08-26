@@ -7,4 +7,4 @@ fork 至 linuxsong/game2048，算法修改、动画修改、加入历史最高�
 <img src="/JasonLinkinBright/2048color/blob/master/screenshot/screenshot_1.jpg?raw=true" width="300px">
 
 ##### gif
-<img src="/JasonLinkinBright/2048color/blob/master/screenshot/1566828098970914.gif?raw=true" alt="1566828098970914.gif">
+<img src="https://github.com/JasonLinkinBright/2048color/blob/master/screenshot/1566828098970914.gif" alt="1566828098970914.gif">
